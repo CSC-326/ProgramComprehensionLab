@@ -18,7 +18,7 @@ git clone https://github.com/CSC-326/ProgramComprehensionLab.git
 java -jar Viewer.jar
 ```
 
-3) Load the PrePilot.xml
+3) Load the Section20X.xml, where X is your lab section number.
 
 4) Follow the instructions. You will be shown a code snippet, asked to re-implement it from memory, and shown the code snippet again. Later on you will be asked to correctly identify a code snippet that will obfuscated, which will test your ability to use pattern matching for identifying the code. 
 
