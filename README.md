@@ -20,6 +20,6 @@ java -jar Viewer.jar
 
 3) Load the PrePilot.xml
 
-4) Follow the instructions. You will be shown a code snippet, asked to re-implement it from memory, and shown the code snippet again. Later on you will be asked to correctly identify a code snippet that will obfuscated, which will require your ability to use pattern matching to identify the structure of the code. 
+4) Follow the instructions. You will be shown a code snippet, asked to re-implement it from memory, and shown the code snippet again. Later on you will be asked to correctly identify a code snippet that will obfuscated, which will test your ability to use pattern matching for identifying the code. 
 
 5) Submit your "answers.xml" [here](http://checkbox.io/studies/?id=56fc6f322b7574501f00000b).
